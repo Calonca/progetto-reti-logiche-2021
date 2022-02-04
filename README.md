@@ -1,2 +1,3 @@
 # progetto-reti-logiche-2021
-The project of the university course "reti logiche"
+The project of the university course "Reti logiche"
+More details are explained in the documentation.
